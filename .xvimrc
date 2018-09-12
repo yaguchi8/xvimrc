@@ -1,0 +1,6 @@
+"escapeのjjバインド
+imap jj <Esc>  
+"対応括弧の表示(xcodeで動いてる気がしない..)
+set showmatch
+"検索語をハイライト表示(xcodeで動いてる気がしない..)
+set hlsearch
